@@ -1,32 +1,48 @@
-<img src="./assets/gibhubbanner.png" alt="mdshahjalal5" />
+<img src="./assets/banner.jpeg" alt="mdshahjalal5" />
+<h2 align="center">👋 <span style="color:#ffcc00">Assalamu Alaikum</span>, I'm <strong style="color:#ffffff;">Md. Shahjalal</strong></h2>
 
-# 💫 About Me:
-
-## 👋 Assalamu Alaikum, I'm **Md. Shahjalal**!
-
-I’m a passionate and self-driven **Full-Stack Web Developer** with hands-on experience in building scalable and responsive web applications using:
-
-- ✅ **JavaScript**, **TypeScript**, and **React**
-- ✅ **MERN Stack** (MongoDB, Express.js, React, Node.js)
-- ✅ **Firebase** for authentication and real-time databases
-
-I focus on writing clean, efficient code and creating fast, user-friendly web experiences.  
-I enjoy building productivity tools, automating workflows, and working entirely from the terminal with tools like:
-
-- ⚡ **Neovim**
-- ⚡ **Zsh**
-- ⚡ **Tmux**
-
-I’m currently looking for **Frontend** or **Full-Stack Developer** roles where I can contribute, learn, and grow in real-world development teams.
+<p align="center">
+  <strong style="color:#10b981;">Experienced MERN Stack Developer</strong> <br />
+  Focused on building <span style="color:#61dafb;"><strong>scalable</strong></span>, 
+  <span style="color:#facc15;"><strong>maintainable</strong></span>, and 
+  <span style="color:#4ade80;"><strong>high-performance</strong></span> web apps using 
+  <span style="color:#f472b6;"><strong>modern best practices</strong></span> and clean architecture.
+</p>
 
 ---
 
-📫 **Let's Connect:**  
-Feel free to reach out or explore my work through the repositories below.
+### 🧠 Tech Stack
+
+- <strong>MongoDB</strong>, <strong>Express.js</strong>, <strong>React</strong>, <strong>Node.js</strong>, <strong>TypeScript</strong>, <strong>Firebase</strong>, <strong>JWT</strong>
+- Terminal-first workflow: <strong>Hyprland (Wayland)</strong>, <strong>EndeavourOS</strong>, <strong>Neovim</strong>, <strong>Zsh</strong>, <strong>Tmux</strong>
+
+---
+
+### 🎯 Career Focus
+
+Open to <strong>Frontend</strong> or <strong>Full-Stack</strong> roles in modern, product-driven teams.
+
+## 👋 Assalamu Alaikum, I'm <b style="color:purple; "><i>Md. Shahjalal</i></b>
+
+Experienced **MERN Stack Developer** focused on building **scalable**, **maintainable**, and **high-performance** web apps using **modern best practices** and clean architecture.
+
+- **MongoDB**, **Express.js**, **React**, **Node.js**, **TypeScript**, **Firebase**, **JWT**
+- Terminal-first workflow on **Hyprland (Wayland)** & **EndeavourOS**, powered by **Neovim**, **Zsh**, **Tmux**
+
+🎯 Open to **Frontend** or **Full-Stack** roles in modern, product-driven teams.
+
+---
 
 # 💻 Tech Stack:
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+| Skills Overview              | Technologies                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Languages**                | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)                                                                 |
+| **Frontend Technologies**    | ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![React Router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=react-router)                                                                                                                                                                                                                                 |
+| **Back-End Development**     | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)                                                                                                                                                                                                                                      |
+| **Database**                 | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)                                                                                                                                                                                                                                                                                                                             |
+| **Authentication & Hosting** | ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)                                                                                                                                                        |
+| **Tools & Platforms**        | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) |
 
 # 📊 GitHub Stats:
 
@@ -66,4 +82,3 @@ Feel free to reach out or explore my work through the repositories below.
 
 > 🚀 Auto-generated by your Neovim setup  
 > 🧠 Modify this template for even more detail or project-specific features.
-
