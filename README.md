@@ -58,6 +58,19 @@ Explore a collection of my most polished, full-stack **MERN applications**, craf
 
 ---
 
+### 🌐 shahjalal-portfolio-v2 — Modern Developer Portfolio 🖥️✨
+
+> A sleek, responsive portfolio website built with React, Tailwind CSS, Framer Motion, and Vite — designed to showcase my skills, projects, and workflow with smooth animations and modern UI.
+
+🔗 [Live Site](http://shahjalal-mern.surge.sh)  
+📦 [Source Code](https://github.com/shahjalal-labs/shahjalal-portfolio-v2)  
+🛠 **Tech Stack:**  
+`React` • `Tailwind CSS` • `Framer Motion` • `Vite`
+
+![Portfolio Screenshot](./assets/projects/portfolio.png)
+
+---
+
 ### 📘 FlavorBook — Recipe Sharing & Marketplace 🍲🧑‍🍳
 
 > A full-featured platform that unites recipe sharing, chef booking, blog exploration, and a product marketplace—all in one seamless experience.
@@ -84,14 +97,14 @@ Explore a collection of my most polished, full-stack **MERN applications**, craf
 
 ---
 
-### 📦 WorkElevate — Nationwide Parcel Logistics 🚚📬
+### 📦 WorkElevate The Smart & Modern Job Portal for Job Seekers & Employers 🚚📬
 
-> Real-world logistics infrastructure built for modern-day Bangladesh—smart, scalable, and deployable for thousands of users in real-time.
+> WorkElevate is your ultimate ultrasonic-powered platform, designed to connect talent with opportunity faster and smarter. It offers an intuitive, cutting-edge experience for job seekers and employers, bringing the future of hiring to Bangladesh today.
 
 🔗 [Live Site](https://workelevate.surge.sh)  
 📦 [Source Code](https://github.com/shahjalal-labs/WorkElebate/tree/main/client-WorkElebate)  
 🛠 **Tech Stack:**  
-`React` • `Node.js` • `Relational Database`
+`React` • `Node.js` • `MongoDB`
 
 ![WorkElevate](./assets/projects/workelevate.png)
 
@@ -104,7 +117,7 @@ Explore a collection of my most polished, full-stack **MERN applications**, craf
 🔗 [Live Site](https://workelevate.surge.sh/)  
 📦 [Source Code](https://github.com/yourname/codeverse)  
 🛠 **Tech Stack:**  
-`React` • `Node.js` • `Relational Database`
+`React` • `Node.js` • `MONGODB`
 
 ![Gontobbo](./assets/projects/gontobbo.png)
 
