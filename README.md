@@ -54,7 +54,7 @@ Feel free to reach out or connect with me!
 
 ## 🚀 Projects by [shahjalal-labs](https://github.com/shahjalal-labs) &nbsp; ![GitHub](https://img.shields.io/github/followers/shahjalal-labs?label=Follow&style=social)
 
-Welcome to my personal GitHub space! I'm Md Shahjalal, a passionate full-stack **MERN** developer who builds robust, production-ready, and scalable web applications with modern UI/UX and animation-friendly architecture. Below is a curated showcase of some of my flagship projects 🚧📦:
+Explore a collection of my most polished, full-stack **MERN applications**, crafted with modern UI/UX, powerful architecture, and real-world functionality. Each project reflects a commitment to quality, performance, and user-first design 🚀✨
 
 ---
 
@@ -67,8 +67,7 @@ Welcome to my personal GitHub space! I'm Md Shahjalal, a passionate full-stack *
 🛠 **Tech Stack:**  
 `React` • `Express` • `Node.js` • `MongoDB` • `Tailwind CSS`
 
-![FlavorBook Screenshot](./ProjectsImage/flavorbook.png)
-![FlavorBook](https://i.ibb.co/S7dHQtDx/flavorbook.png)
+![FlavorBook](./assets/projects/flavorbook.png)
 
 ---
 
@@ -81,15 +80,7 @@ Welcome to my personal GitHub space! I'm Md Shahjalal, a passionate full-stack *
 🛠 **Tech Stack:**  
 `React` • `Express` • `Node.js` • `MongoDB`
 
-![EduVerse Screenshot](./ProjectsImage/eduverse.png)
-
-<!-- EduVerse -->
-<img src="https://i.ibb.co/zTybdSP1/eduverse.png" alt="EduVerse" width="600"/>
-## 🎓 EduVerse Preview
-
-<!-- ![EduVerse](./assets/projects/eduverse.png) -->
-
-<!-- ![EduVerse](https://i.ibb.co/zTybdSP1/eduverse.png) -->
+![EduVerse](./assets/projects/eduverse.png)
 
 ---
 
@@ -102,12 +93,11 @@ Welcome to my personal GitHub space! I'm Md Shahjalal, a passionate full-stack *
 🛠 **Tech Stack:**  
 `React` • `Node.js` • `Relational Database`
 
-![WorkElevate Screenshot](./ProjectsImage/workelevate.png)
-![WorkElevate](https://i.ibb.co/hJ5mdY8w/workelevate.png)
+![WorkElevate](./assets/projects/workelevate.png)
 
 ---
 
-### 🧭 Gontobbo — Smart Parcel Infrastructure (Ongoing) 🔄
+### 🧭 Gontobbo — Smart Parcel Infrastructure _(Ongoing)_ 🔄
 
 > Modernizing parcel delivery services through automation, transparency, and real-time tracking. Currently under active development.
 
@@ -116,19 +106,11 @@ Welcome to my personal GitHub space! I'm Md Shahjalal, a passionate full-stack *
 🛠 **Tech Stack:**  
 `React` • `Node.js` • `Relational Database`
 
-![Gontobbo Screenshot](./ProjectsImage/gontobbo.png)
-
-## ![Gontobbo](https://i.ibb.co/HTSrN3wT/gontobbo.png)
-
-### 🧑‍💻 Connect With Me
-
-| 🌐 Portfolio                                   | 💼 LinkedIn                                   | 📬 Email                                       | 🧑‍🔬 GitHub                                   |
-| ---------------------------------------------- | --------------------------------------------- | ---------------------------------------------- | ------------------------------------------- |
-| [Live Portfolio](https://flavor-book.surge.sh) | [LinkedIn](https://linkedin.com/in/shahjalal) | [Email Me](mailto:muhommodshahjalal@gmail.com) | [GitHub](https://github.com/shahjalal-labs) |
+![Gontobbo](./assets/projects/gontobbo.png)
 
 ---
 
-> ✨ For more enterprise-ready MERN projects, animations, and advanced UI/UX practices, feel free to [explore my GitHub profile](https://github.com/shahjalal-labs) or [visit the live site](https://flavor-book.surge.sh/) to see them in action!
+> 💡 For more projects and hands-on MERN innovations, visit my full [GitHub profile](https://github.com/shahjalal-labs).
 
 ### 🤝 Let’s Connect!
 
