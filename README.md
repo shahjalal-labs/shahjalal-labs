@@ -54,7 +54,9 @@ Feel free to reach out or connect with me!
 
 ## 🚀 Projects by [shahjalal-labs](https://github.com/shahjalal-labs) &nbsp; ![GitHub](https://img.shields.io/github/followers/shahjalal-labs?label=Follow&style=social)
 
-Explore a collection of my most polished, full-stack **MERN applications**, crafted with modern UI/UX, powerful architecture, and real-world functionality. Each project reflects a commitment to quality, performance, and user-first design 🚀✨
+Not just apps. These are **real-world platforms**—architected for scale, designed for humans, and built using the **power of MERN** 🚀
+
+Every line of code, every animation, and every decision reflects a developer obsessed with quality, experience, and impact. 🚀✨
 
 ---
 
@@ -129,6 +131,12 @@ Explore a collection of my most polished, full-stack **MERN applications**, craf
 
 Open to collaborations, freelance projects, and full-time opportunities.  
 Feel free to reach out — I’d love to hear from you!
+
+| 📧 Email                    | 📱 Phone    | 💼 LinkedIn                                               | 🐙 GitHub                                           |
+| --------------------------- | ----------- | --------------------------------------------------------- | --------------------------------------------------- |
+| muhommodshahjalal@gmail.com | 01540325659 | [LinkedIn Profile](https://www.linkedin.com/in/your-name) | [shahjalal-labs](https://github.com/shahjalal-labs) |
+
+---
 
 ### ✍️ Random Dev Quote
 
