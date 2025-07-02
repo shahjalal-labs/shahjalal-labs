@@ -32,6 +32,10 @@ Experienced **MERN Stack Developer** focused on building **scalable**, **maintai
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahjalal-labs&theme=nord&hide_border=false&layout=compact)
 
+### 🧠 GitHub Contribution Activity
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahjalal-labs&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 📞 Contact Me
 
 Feel free to reach out or connect with me!
@@ -144,7 +148,7 @@ Feel free to reach out — I’d love to hear from you!
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=mdshahjalal5&icon=0&color=0)](https://visitcount.itsvg.in)
+[a![](https://visitcount.itsvg.in/api?id=mdshahjalal5&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--
 Md. Shahjalal – MERN Stack Developer | React, TypeScript, Firebase, Neovim, Hyprland, Tmux | Open-source, CLI productivity, Linux-first
