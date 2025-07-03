@@ -40,9 +40,9 @@ Experienced **MERN Stack Developer** focused on building **scalable**, **maintai
 
 Feel free to reach out or connect with me!
 
-| 📧 Email                    | 📱 Phone    | 💼 LinkedIn                                                  | 🐙 GitHub                                           |
-| --------------------------- | ----------- | ------------------------------------------------------------ | --------------------------------------------------- |
-| muhommodshahjalal@gmail.com | 01540325659 | [LinkedIn Profile](https://www.linkedin.com/in/mdshahjalal/) | [shahjalal-labs](https://github.com/shahjalal-labs) |
+| 📧 Email                    | 📱 Phone    | 💼 LinkedIn                                                     | 🐙 GitHub                                           |
+| --------------------------- | ----------- | --------------------------------------------------------------- | --------------------------------------------------- |
+| muhommodshahjalal@gmail.com | 01540325659 | [LinkedIn Profile](https://www.linkedin.com/in/shahjalal-mern/) | [shahjalal-labs](https://github.com/shahjalal-labs) |
 
 ---
 
