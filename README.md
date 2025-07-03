@@ -40,9 +40,9 @@ Experienced **MERN Stack Developer** focused on building **scalable**, **maintai
 
 Feel free to reach out or connect with me!
 
-| 📧 Email                    | 📱 Phone    | 💼 LinkedIn                                               | 🐙 GitHub                                           |
-| --------------------------- | ----------- | --------------------------------------------------------- | --------------------------------------------------- |
-| muhommodshahjalal@gmail.com | 01540325659 | [LinkedIn Profile](https://www.linkedin.com/in/your-name) | [shahjalal-labs](https://github.com/shahjalal-labs) |
+| 📧 Email                    | 📱 Phone    | 💼 LinkedIn                                                  | 🐙 GitHub                                           |
+| --------------------------- | ----------- | ------------------------------------------------------------ | --------------------------------------------------- |
+| muhommodshahjalal@gmail.com | 01540325659 | [LinkedIn Profile](https://www.linkedin.com/in/mdshahjalal/) | [shahjalal-labs](https://github.com/shahjalal-labs) |
 
 ---
 
@@ -50,9 +50,9 @@ Feel free to reach out or connect with me!
 
 [![Email](https://img.shields.io/badge/Email-muhommodshahjalal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhommodshahjalal@gmail.com)
 [![Phone](https://img.shields.io/badge/Call-01540325659-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01540325659)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-name)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdshahjalal/)
 [![GitHub](https://img.shields.io/badge/GitHub-shahjalal--labs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahjalal-labs)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-facebook-id)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61556383702555)
 
 ---
 
@@ -136,9 +136,9 @@ Every line of code, every animation, and every decision reflects a developer obs
 Open to collaborations, freelance projects, and full-time opportunities.  
 Feel free to reach out — I’d love to hear from you!
 
-| 📧 Email                    | 📱 Phone    | 💼 LinkedIn                                               | 🐙 GitHub                                           |
-| --------------------------- | ----------- | --------------------------------------------------------- | --------------------------------------------------- |
-| muhommodshahjalal@gmail.com | 01540325659 | [LinkedIn Profile](https://www.linkedin.com/in/your-name) | [shahjalal-labs](https://github.com/shahjalal-labs) |
+| 📧 Email                    | 📱 Phone    | 💼 LinkedIn                                                     | 🐙 GitHub                                           |
+| --------------------------- | ----------- | --------------------------------------------------------------- | --------------------------------------------------- |
+| muhommodshahjalal@gmail.com | 01540325659 | [LinkedIn Profile](https://www.linkedin.com/in/shahjalal-mern/) | [shahjalal-labs](https://github.com/shahjalal-labs) |
 
 ---
 
