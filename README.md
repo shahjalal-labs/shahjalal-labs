@@ -50,7 +50,7 @@ Feel free to reach out or connect with me!
 
 [![Email](https://img.shields.io/badge/Email-muhommodshahjalal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhommodshahjalal@gmail.com)
 [![Phone](https://img.shields.io/badge/Call-01540325659-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01540325659)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdshahjalal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahjalal-mern/)
 [![GitHub](https://img.shields.io/badge/GitHub-shahjalal--labs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahjalal-labs)
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61556383702555)
 
@@ -148,8 +148,8 @@ Feel free to reach out — I’d love to hear from you!
 
 ---
 
-[a![](https://visitcount.itsvg.in/api?id=mdshahjalal5&icon=0&color=0)](https://visitcount.itsvg.in)
+a![](https://visitcount.itsvg.in/api?id=mdshahjalal5&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--
-Md. Shahjalal – MERN Stack Developer | React, TypeScript, Firebase, Neovim, Hyprland, Tmux | Open-source, CLI productivity, Linux-first
+Md.Shahjalal – MERN Stack Developer | React, TypeScript, Firebase, Neovim, Hyprland, Tmux | Open-source, CLI productivity, Linux-first
 -->
