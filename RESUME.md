@@ -2,7 +2,7 @@
 Junior MERN Stack Developer  
 📞 +8801540325659 | 📧 muhommodshahjalal@gmail.com  
 📍 Gazipur, Dhaka, Bangladesh  
-🔗 [GitHub](https://github.com/shahjalal-labs) | [LinkedIn](https://www.linkedin.com/in/shahjalal-mern/)
+🔗 [GitHub](https://github.com/shahjalal-labs) | [LinkedIn](https://www.linkedin.com/in/shahjalal-mern/) | [Portfolio](http://shahjalal-mern.surge.sh/)
 
 ---
 
@@ -63,3 +63,9 @@ An online assignment and group study portal with collaborative features.
 
 - Bengali — Native
 - English — Fluent
+
+### 🛠️ Technical Interests & Personal Projects
+
+- Created a **CLI-first Linux dev workflow** with Hyprland, Neovim, Tmux, SurfingKeys, and more.
+- Engineered a **dotfile-driven system** with custom keybindings and terminal automation to boost coding efficiency and consistency across environments.
+- 🔗 [Dotfiles Repository](https://github.com/shahjalal-labs/allDotfilesBackupEndeavourOs)

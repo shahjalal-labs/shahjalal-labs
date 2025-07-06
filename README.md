@@ -148,8 +148,6 @@ Feel free to reach out — I’d love to hear from you!
 
 ---
 
-a![](https://visitcount.itsvg.in/api?id=mdshahjalal5&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!--
 Md.Shahjalal – MERN Stack Developer | React, TypeScript, Firebase, Neovim, Hyprland, Tmux | Open-source, CLI productivity, Linux-first
 -->
