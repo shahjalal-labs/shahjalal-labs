@@ -1,3 +1,27 @@
+# 🌟 shahjalal-labs
+
+## 📂 Project Information
+
+| 📝 **Detail**           | 📌 **Value**                                                              |
+|------------------------|---------------------------------------------------------------------------|
+| 🔗 **GitHub URL**       | [https://github.com/shahjalal-labs/shahjalal-labs](https://github.com/shahjalal-labs/shahjalal-labs)                                                                  |
+| 🌐 **Live Site**        | [http://shahjalal-mern.surge.sh](http://shahjalal-mern.surge.sh)                                                                  |
+| 💻 **Portfolio GitHub** | [https://github.com/shahjalal-labs/shahjalal-portfolio-v2](https://github.com/shahjalal-labs/shahjalal-portfolio-v2)                                                                  |
+| 🌐 **Portfolio Live**   | [http://shahjalal-labs.surge.sh](http://shahjalal-labs.surge.sh)                                                                  |
+| 📁 **Directory**        | `/run/media/sj/developer/web/L1B11/career/portfolio/shahjalal-labs`                                                                      |
+| 📅 **Created On**       | `02/08/2025 08:20 পূর্বাহ্ণ শনি GMT+6`                                                                      |
+| 📍 **Location**         | Sharifpur, Gazipur, Dhaka                                                                        |
+| 💼 **LinkedIn**         | [https://www.linkedin.com/in/shahjalal-labs/](https://www.linkedin.com/in/shahjalal-labs/)                                                                  |
+| 📘 **Facebook**         | [https://www.facebook.com/shahjalal.labs](https://www.facebook.com/shahjalal.labs)                                                                  |
+| ▶️ **Twitter**          | [https://x.com/shahjalal_labs](https://x.com/shahjalal_labs)                                                                  |
+
+---
+### `Developer info:`
+![Developer Info:](https://i.ibb.co/kVR4YmrX/developer-Info-Github-Banner.png)
+
+> 🚀 
+> 🧠 
+
 ## <img src="./assets/Banner.jpg" alt="mdshahjalal5" />
 
 ## 👋 Assalamu Alaikum, I'm **Md. Shahjalal**
@@ -42,7 +66,7 @@ Feel free to reach out or connect with me!
 
 | 📧 Email                    | 📱 Phone    | 💼 LinkedIn                                                     | 🐙 GitHub                                           |
 | --------------------------- | ----------- | --------------------------------------------------------------- | --------------------------------------------------- |
-| muhommodshahjalal@gmail.com | 01540325659 | [LinkedIn Profile](https://www.linkedin.com/in/shahjalal-mern/) | [shahjalal-labs](https://github.com/shahjalal-labs) |
+| muhommodshahjalal@gmail.com | 01540325659 | [LinkedIn Profile](https://www.linkedin.com/in/shahjalal-labs/) | [shahjalal-labs](https://github.com/shahjalal-labs) |
 
 ---
 
@@ -50,7 +74,7 @@ Feel free to reach out or connect with me!
 
 [![Email](https://img.shields.io/badge/Email-muhommodshahjalal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhommodshahjalal@gmail.com)
 [![Phone](https://img.shields.io/badge/Call-01540325659-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01540325659)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahjalal-mern/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahjalal-labs/)
 [![GitHub](https://img.shields.io/badge/GitHub-shahjalal--labs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahjalal-labs)
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61556383702555)
 
@@ -68,7 +92,7 @@ Every line of code, every animation, and every decision reflects a developer obs
 
 > A sleek, responsive portfolio website built with React, Tailwind CSS, Framer Motion, and Vite — designed to showcase my skills, projects, and workflow with smooth animations and modern UI.
 
-🔗 [Live Site](http://shahjalal-mern.surge.sh)  
+🔗 [Live Site](http://shahjalal-labs.surge.sh)  
 📦 [Source Code](https://github.com/shahjalal-labs/shahjalal-portfolio-v2)  
 🛠 **Tech Stack:**  
 `React` • `Tailwind CSS` • `Framer Motion` • `Vite`
@@ -138,7 +162,7 @@ Feel free to reach out — I’d love to hear from you!
 
 | 📧 Email                    | 📱 Phone    | 💼 LinkedIn                                                     | 🐙 GitHub                                           |
 | --------------------------- | ----------- | --------------------------------------------------------------- | --------------------------------------------------- |
-| muhommodshahjalal@gmail.com | 01540325659 | [LinkedIn Profile](https://www.linkedin.com/in/shahjalal-mern/) | [shahjalal-labs](https://github.com/shahjalal-labs) |
+| muhommodshahjalal@gmail.com | 01540325659 | [LinkedIn Profile](https://www.linkedin.com/in/shahjalal-labs/) | [shahjalal-labs](https://github.com/shahjalal-labs) |
 
 ---
 

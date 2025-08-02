@@ -69,3 +69,5 @@ An online assignment and group study portal with collaborative features.
 - Created a **CLI-first Linux dev workflow** with Hyprland, Neovim, Tmux, SurfingKeys, and more.
 - Engineered a **dotfile-driven system** with custom keybindings and terminal automation to boost coding efficiency and consistency across environments.
 - 🔗 [Dotfiles Repository](https://github.com/shahjalal-labs/allDotfilesBackupEndeavourOs)
+
+sjdo ugss rmye ydkr
