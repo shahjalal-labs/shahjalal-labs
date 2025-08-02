@@ -1,27 +1,3 @@
-# 🌟 shahjalal-labs
-
-## 📂 Project Information
-
-| 📝 **Detail**           | 📌 **Value**                                                              |
-|------------------------|---------------------------------------------------------------------------|
-| 🔗 **GitHub URL**       | [https://github.com/shahjalal-labs/shahjalal-labs](https://github.com/shahjalal-labs/shahjalal-labs)                                                                  |
-| 🌐 **Live Site**        | [http://shahjalal-mern.surge.sh](http://shahjalal-mern.surge.sh)                                                                  |
-| 💻 **Portfolio GitHub** | [https://github.com/shahjalal-labs/shahjalal-portfolio-v2](https://github.com/shahjalal-labs/shahjalal-portfolio-v2)                                                                  |
-| 🌐 **Portfolio Live**   | [http://shahjalal-labs.surge.sh](http://shahjalal-labs.surge.sh)                                                                  |
-| 📁 **Directory**        | `/run/media/sj/developer/web/L1B11/career/portfolio/shahjalal-labs`                                                                      |
-| 📅 **Created On**       | `02/08/2025 08:20 পূর্বাহ্ণ শনি GMT+6`                                                                      |
-| 📍 **Location**         | Sharifpur, Gazipur, Dhaka                                                                        |
-| 💼 **LinkedIn**         | [https://www.linkedin.com/in/shahjalal-labs/](https://www.linkedin.com/in/shahjalal-labs/)                                                                  |
-| 📘 **Facebook**         | [https://www.facebook.com/shahjalal.labs](https://www.facebook.com/shahjalal.labs)                                                                  |
-| ▶️ **Twitter**          | [https://x.com/shahjalal_labs](https://x.com/shahjalal_labs)                                                                  |
-
----
-### `Developer info:`
-![Developer Info:](https://i.ibb.co/kVR4YmrX/developer-Info-Github-Banner.png)
-
-> 🚀 
-> 🧠 
-
 ## <img src="./assets/Banner.jpg" alt="mdshahjalal5" />
 
 ## 👋 Assalamu Alaikum, I'm **Md. Shahjalal**
@@ -175,3 +151,4 @@ Feel free to reach out — I’d love to hear from you!
 <!--
 Md.Shahjalal – MERN Stack Developer | React, TypeScript, Firebase, Neovim, Hyprland, Tmux | Open-source, CLI productivity, Linux-first
 -->
+
