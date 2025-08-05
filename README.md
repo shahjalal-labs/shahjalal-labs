@@ -72,6 +72,7 @@ Every line of code, every animation, and every decision reflects a developer obs
 📦 [Client Code](https://github.com/shahjalal-labs/DeshGuide-client)  
 📦 [Server Code](https://github.com/shahjalal-labs/DeshGuide-server)  
 ⚙️ [Backend API](https://deshguide-server.vercel.app)  
+🎥 [Preview Video](https://www.youtube.com/watch?v=V_u5M37B-es)
 🛠 **Tech Stack:**  
 `React` • `Node.js` • `MongoDB` • `Firebase` • `Stripe` • `Tailwind CSS` • `TanStack Query` • `JWT` • `Framer Motion`
 
