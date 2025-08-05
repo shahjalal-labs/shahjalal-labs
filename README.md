@@ -40,9 +40,9 @@ Experienced **MERN Stack Developer** focused on building **scalable**, **maintai
 
 Feel free to reach out or connect with me!
 
-| 📧 Email                    | 📱 Phone    | 💼 LinkedIn                                                     | 🐙 GitHub                                           |
-| --------------------------- | ----------- | --------------------------------------------------------------- | --------------------------------------------------- |
-| muhommodshahjalal@gmail.com | 01540325659 | [LinkedIn Profile](https://www.linkedin.com/in/shahjalal-labs/) | [shahjalal-labs](https://github.com/shahjalal-labs) |
+| 📧 Email                    | 📱 Phone       | 💼 LinkedIn                                                     | 🐙 GitHub                                           |
+| --------------------------- | -------------- | --------------------------------------------------------------- | --------------------------------------------------- |
+| muhommodshahjalal@gmail.com | +8801540325659 | [LinkedIn Profile](https://www.linkedin.com/in/shahjalal-labs/) | [shahjalal-labs](https://github.com/shahjalal-labs) |
 
 ---
 
@@ -50,6 +50,17 @@ Feel free to reach out or connect with me!
 
 [![Email](https://img.shields.io/badge/Email-muhommodshahjalal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhommodshahjalal@gmail.com)
 [![Phone](https://img.shields.io/badge/Call-01540325659-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01540325659)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahjalal-labs/)
+[![GitHub](https://img.shields.io/badge/GitHub-shahjalal--labs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahjalal-labs)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61556383702555)
+
+---
+
+### 🔗 Quick Links
+
+[![Email](https://img.shields.io/badge/Email-muhommodshahjalal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhommodshahjalal@gmail.com)
+[![Call](https://img.shields.io/badge/Call-01540325659-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01540325659)
+[![WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801540325659)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahjalal-labs/)
 [![GitHub](https://img.shields.io/badge/GitHub-shahjalal--labs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahjalal-labs)
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61556383702555)
@@ -72,7 +83,7 @@ Every line of code, every animation, and every decision reflects a developer obs
 📦 [Client Code](https://github.com/shahjalal-labs/DeshGuide-client)  
 📦 [Server Code](https://github.com/shahjalal-labs/DeshGuide-server)  
 ⚙️ [Backend API](https://deshguide-server.vercel.app)  
-🎥 [Preview Video](https://www.youtube.com/watch?v=V_u5M37B-es)
+🎥 [Preview Video](https://www.youtube.com/watch?v=V_u5M37B-es) <br />
 🛠 **Tech Stack:**  
 `React` • `Node.js` • `MongoDB` • `Firebase` • `Stripe` • `Tailwind CSS` • `TanStack Query` • `JWT` • `Framer Motion`
 
@@ -152,9 +163,9 @@ Every line of code, every animation, and every decision reflects a developer obs
 Open to collaborations, freelance projects, and full-time opportunities.  
 Feel free to reach out — I’d love to hear from you!
 
-| 📧 Email                    | 📱 Phone    | 💼 LinkedIn                                                     | 🐙 GitHub                                           |
-| --------------------------- | ----------- | --------------------------------------------------------------- | --------------------------------------------------- |
-| muhommodshahjalal@gmail.com | 01540325659 | [LinkedIn Profile](https://www.linkedin.com/in/shahjalal-labs/) | [shahjalal-labs](https://github.com/shahjalal-labs) |
+| 📧 Email                    | 📱 Phone       | 💼 LinkedIn                                                     | 🐙 GitHub                                           |
+| --------------------------- | -------------- | --------------------------------------------------------------- | --------------------------------------------------- |
+| muhommodshahjalal@gmail.com | +8801540325659 | [LinkedIn Profile](https://www.linkedin.com/in/shahjalal-labs/) | [shahjalal-labs](https://github.com/shahjalal-labs) |
 
 ---
 
