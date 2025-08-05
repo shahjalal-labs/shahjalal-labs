@@ -49,17 +49,7 @@ Feel free to reach out or connect with me!
 ### 🔗 Quick Links
 
 [![Email](https://img.shields.io/badge/Email-muhommodshahjalal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhommodshahjalal@gmail.com)
-[![Phone](https://img.shields.io/badge/Call-01540325659-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01540325659)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahjalal-labs/)
-[![GitHub](https://img.shields.io/badge/GitHub-shahjalal--labs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahjalal-labs)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61556383702555)
-
----
-
-### 🔗 Quick Links
-
-[![Email](https://img.shields.io/badge/Email-muhommodshahjalal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhommodshahjalal@gmail.com)
-[![Call](https://img.shields.io/badge/Call-01540325659-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01540325659)
+[![Call](https://img.shields.io/badge/Call-+8801540325659-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801540325659)
 [![WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801540325659)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahjalal-labs/)
 [![GitHub](https://img.shields.io/badge/GitHub-shahjalal--labs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahjalal-labs)
