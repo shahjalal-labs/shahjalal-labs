@@ -1,4 +1,4 @@
-## <img src="./assets/Banner.jpg" alt="mdshahjalal5" />
+# <img src="./assets/Banner.jpg" alt="mdshahjalal5" />
 
 ## 👋 Assalamu Alaikum, I'm **Md. Shahjalal**
 
@@ -61,6 +61,21 @@ Feel free to reach out or connect with me!
 Not just apps. These are **real-world platforms**—architected for scale, designed for humans, and built using the **power of MERN** 🚀
 
 Every line of code, every animation, and every decision reflects a developer obsessed with quality, experience, and impact. 🚀✨
+
+---
+
+### 🌟 DeshGuide — Tourism Management System 🇧🇩🗺️
+
+> A full-featured tourism management platform featuring secure booking, story sharing, multi-role authentication, and a modern admin dashboard—empowering the future of travel in Bangladesh.
+
+🔗 [Live Site](https://deshguide.surge.sh)  
+📦 [Client Code](https://github.com/shahjalal-labs/DeshGuide-client)  
+📦 [Server Code](https://github.com/shahjalal-labs/DeshGuide-server)  
+⚙️ [Backend API](https://deshguide-server.vercel.app)  
+🛠 **Tech Stack:**  
+`React` • `Node.js` • `MongoDB` • `Firebase` • `Stripe` • `Tailwind CSS` • `TanStack Query` • `JWT` • `Framer Motion`
+
+![DeshGuide](./assets/projects/deshguide.png)
 
 ---
 
@@ -151,4 +166,3 @@ Feel free to reach out — I’d love to hear from you!
 <!--
 Md.Shahjalal – MERN Stack Developer | React, TypeScript, Firebase, Neovim, Hyprland, Tmux | Open-source, CLI productivity, Linux-first
 -->
-
