@@ -258,3 +258,34 @@ I take a step back, prioritize tasks, and break them into smaller, actionable it
 ### **14. Can you describe a situation where you failed? What did you learn from it?**
 
 In an early group project, I took on too much myself instead of distributing tasks, which led to burnout and delays. I learned the importance of **collaboration**, **trusting the team**, and **communicating early**. Since then, I’ve been more effective at delegating and managing scope.
+
+email pdf: https://drive.google.com/file/d/1YQ6INwHShpr6PSfD_zmW28jTIQflN6fh/view?usp=sharing
+interpsersonal backpack: https://docs.google.com/document/d/1Nbr9_N7wPhE6kXj37whoTz4FLaJuVN7EKPPEwMxh0RA/edit?usp=sharing
+
+---
+
+📝 Request to Allow Markdown for Doc-Type Assignments
+
+Dear Mentor,
+
+I'd like to kindly request that for doc-type assignments such as: Interpersonal Questions
+
+…we are allowed the flexibility to submit in Markdown format, not just Google Docs.
+
+As developers, Markdown gives long-term benefits:
+
+    Clean syntax and version control with Git/GitHub
+
+    IDE-friendly and reusable across projects
+
+    Better suited for developer workflows (VSCode, Obsidian, Neovim, etc.)
+
+    Faster formatting using keyboard-based workflows
+
+📌 This isn't a request to remove Docs — only to allow Markdown as an optional format for those who prefer it.
+
+Also, for those who already submitted via Docs, it would help if a later Markdown version is allowed (not as a forced redo, just as an alternative format to keep for our dev notes or GitHub portfolio).
+
+Thanks a lot for considering this flexibility 🙏
+
+#markdown #developerFriendly #assignmentFormat #docTypeTasks #gitWorkflow #vscode #neovim #openrequest #ejp #interpersonal #cvwriting #emailwriting #coverletter #productivity #optionalFormat
