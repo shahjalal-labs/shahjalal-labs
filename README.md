@@ -85,7 +85,7 @@ Every line of code, every animation, and every decision reflects a developer obs
 
 > A sleek, responsive portfolio website built with React, Tailwind CSS, Framer Motion, and Vite — designed to showcase my skills, projects, and workflow with smooth animations and modern UI.
 
-🔗 [Live Site](http://shahjalal-labs.surge.sh)  
+🔗 [Live Site](https://shahjalal-labs.surge.sh/)  
 📦 [Source Code](https://github.com/shahjalal-labs/shahjalal-portfolio-v2)  
 🛠 **Tech Stack:**  
 `React` • `Tailwind CSS` • `Framer Motion` • `Vite`
@@ -168,3 +168,4 @@ Feel free to reach out — I’d love to hear from you!
 <!--
 Md.Shahjalal – MERN Stack Developer | React, TypeScript, Firebase, Neovim, Hyprland, Tmux | Open-source, CLI productivity, Linux-first
 -->
+# chk
