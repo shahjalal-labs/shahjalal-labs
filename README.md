@@ -148,6 +148,14 @@ Every line of code, every animation, and every decision reflects a developer obs
 
 > 💡 For more projects and hands-on MERN innovations, visit my full [GitHub profile](https://github.com/shahjalal-labs).
 
+## 🏅 Certifications
+
+- **Complete Web Development Course with Excellence**  
+   Issued by **Programming Hero** | Batch 11 | ID: WEB11-0132  
+   [![Certificate Preview](./assets/certificates/complete_web_ph_certificate.png)](https://drive.google.com/file/d/1HS8uU_-fZIlHH-zX_XazxS-QIlzHfjRZ/view)
+  [📄 Credential](https://drive.google.com/file/d/1HS8uU_-fZIlHH-zX_XazxS-QIlzHfjRZ/view) <br />
+  [![Certificate](https://img.shields.io/badge/Certificate-Programming_Hero-0A66C2?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1HS8uU_-fZIlHH-zX_XazxS-QIlzHfjRZ/view)
+
 ### 🤝 Let’s Connect!
 
 Open to collaborations, freelance projects, and full-time opportunities.  
