@@ -148,11 +148,30 @@ Every line of code, every animation, and every decision reflects a developer obs
 
 > 💡 For more projects and hands-on MERN innovations, visit my full [GitHub profile](https://github.com/shahjalal-labs).
 
-## 🏅 Certifications
+<!-- ## 🏅 Certifications -->
+<!---->
+<!-- - **Complete Web Development Course with Excellence**   -->
+<!--    Issued by **Programming Hero** | Batch 11 | ID: WEB11-0132   -->
+<!--    [![Certificate Preview](./assets/certificates/complete_web_ph_certificate.png)](https://drive.google.com/file/d/1HS8uU_-fZIlHH-zX_XazxS-QIlzHfjRZ/view) -->
+<!--   [📄 Credential](https://drive.google.com/file/d/1HS8uU_-fZIlHH-zX_XazxS-QIlzHfjRZ/view) <br /> -->
+<!--   [![Certificate](https://img.shields.io/badge/Certificate-Programming_Hero-0A66C2?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1HS8uU_-fZIlHH-zX_XazxS-QIlzHfjRZ/view) -->
+<!---->
+
+# 🏅 Certifications
+
+- **Blackbelt Web Developer**  
+  Issued by **Programming Hero** | Batch 11 | Valid until: 31 Dec 2025  
+  [![Certificate Preview](./assets/certificates/l1b11ScicBlackBelt.png)](./assets/certificates/l1b11ScicBlackBelt.png)
+  [📄 View Certificate](./assets/certificates/l1b11ScicBlackBelt.png) <br />
+  [![Certificate](https://img.shields.io/badge/Certificate-Blackbelt_Web_Developer-000000?style=for-the-badge&logo=google-drive)](./assets/certificates/l1b11ScicBlackBelt.png)
+
+  **Skills Demonstrated:** JavaScript • React • Firebase • Node.js • Express.js • MongoDB • HTML5 • CSS3 • Tailwind CSS
+
+  **Recognition:** Awarded for outstanding performance in the Complete Web Development Course, Batch 11
 
 - **Complete Web Development Course with Excellence**  
-   Issued by **Programming Hero** | Batch 11 | ID: WEB11-0132  
-   [![Certificate Preview](./assets/certificates/complete_web_ph_certificate.png)](https://drive.google.com/file/d/1HS8uU_-fZIlHH-zX_XazxS-QIlzHfjRZ/view)
+  Issued by **Programming Hero** | Batch 11 | ID: WEB11-0132  
+  [![Certificate Preview](./assets/certificates/complete_web_ph_certificate.png)](https://drive.google.com/file/d/1HS8uU_-fZIlHH-zX_XazxS-QIlzHfjRZ/view)
   [📄 Credential](https://drive.google.com/file/d/1HS8uU_-fZIlHH-zX_XazxS-QIlzHfjRZ/view) <br />
   [![Certificate](https://img.shields.io/badge/Certificate-Programming_Hero-0A66C2?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1HS8uU_-fZIlHH-zX_XazxS-QIlzHfjRZ/view)
 
