@@ -9,7 +9,7 @@ I design and own production APIs, optimize databases, implement caching with Red
 Contributed to mobile apps in production (App Store & Play Store).
 
 - System design • Performance • Clean architecture
-- CLI-first workflow (Hyprland, Neovim, Tmux)
+- CLI-first workflow (Hyprland(linux), Neovim, Tmux)
 
 ## 🎯 Open to Backend or Backend-heavy Full Stack roles.
 
@@ -20,7 +20,7 @@ Contributed to mobile apps in production (App Store & Play Store).
 | **Backend Core**                 | ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/-REST_API-000000?style=flat) ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat)                     |
 | **Database & Caching**           | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-0c344b?style=flat) ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat) ![Redis](https://img.shields.io/badge/-Redis-dc382d?style=flat&logo=redis&logoColor=white)                                       |
 | **Auth & Security**              | ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white) ![RBAC](https://img.shields.io/badge/-RBAC-444444?style=flat) ![Secure Auth](https://img.shields.io/badge/-Auth_System-222222?style=flat)                                                                                                                                                                                                                                          |
-| **DevOps & Deployment**          | ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux) ![Environment Config](https://img.shields.io/badge/-Env_Config-333333?style=flat)                                                                                                                                                                                                                          |
+| **DevOps & Deployment**          | ![Basic Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux) ![Environment Config](https://img.shields.io/badge/-Env_Config-333333?style=flat)                                                                                                                                                                                                                    |
 | **Frontend (Working Knowledge)** | ![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61dafb) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06b6d4?style=flat&logo=tailwind-css) ![TanStack Query](https://img.shields.io/badge/-TanStack_Query-ff4154?style=flat&logo=react-query&logoColor=white)                                                                                         |
 | **Tools & Workflow**             | ![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-ff6c37?style=flat&logo=postman&logoColor=white) ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white) ![Tmux](https://img.shields.io/badge/-Tmux-1BB91F?style=flat) ![Zsh](https://img.shields.io/badge/-Zsh-cccccc?style=flat) ![Hyprland](https://img.shields.io/badge/-Hyprland-0078D4?style=flat) |
 
@@ -38,11 +38,11 @@ Contributed to mobile apps in production (App Store & Play Store).
 
 ## 📞 Contact Me
 
-Feel free to reach out or connect with me!
+Feel free to reach out or explore my work:
 
-| 📧 Email                    | 📱 Phone       | 💼 LinkedIn                                                     | 🐙 GitHub                                           |
-| --------------------------- | -------------- | --------------------------------------------------------------- | --------------------------------------------------- |
-| muhommodshahjalal@gmail.com | +8801540325659 | [LinkedIn Profile](https://www.linkedin.com/in/shahjalal-labs/) | [shahjalal-labs](https://github.com/shahjalal-labs) |
+| 🌐 Portfolio                                       | 📧 Email                    | 📱 Phone       | 💼 LinkedIn                                                     | 🐙 GitHub                                           |
+| -------------------------------------------------- | --------------------------- | -------------- | --------------------------------------------------------------- | --------------------------------------------------- |
+| [Visit Portfolio](https://shahjalal-labs.surge.sh) | muhommodshahjalal@gmail.com | +8801540325659 | [LinkedIn Profile](https://www.linkedin.com/in/shahjalal-labs/) | [shahjalal-labs](https://github.com/shahjalal-labs) |
 
 ---
 
@@ -194,4 +194,5 @@ Feel free to reach out — I’d love to hear from you!
 
 <!--
 Md.Shahjalal – MERN Stack Developer | React, TypeScript, Firebase, Neovim, Hyprland, Tmux | Open-source, CLI productivity, Linux-first
+
 -->
