@@ -65,6 +65,48 @@ Every line of code, every animation, and every decision reflects a developer obs
 
 ---
 
+### 🛒 Commerzo — Multi-Vendor E-Commerce Backend ⚙️🧾
+
+> A production-ready, multi-vendor e-commerce backend supporting multi-role auth, product variants, shopping cart, Stripe payments, seller payouts, real-time notifications, and BullMQ job processing.
+
+📦 [Source Code](https://github.com/shahjalal-labs/commerzo_backend) <br />
+📬 [API Docs](https://documenter.getpostman.com/view/53860662/2sBXirj8eQ)
+
+🛠 **Tech Stack:**
+`Node.js` • `TypeScript` • `Express` • `MongoDB` • `Prisma` • `Redis` • `BullMQ` • `Stripe` • `Firebase` • `AWS S3`
+
+![Commerzo](./assets/projects/backend/commerzo.png)
+
+---
+
+### 🤝 Guidely — Mentorship Networking Platform Backend 🧠👥
+
+> A LinkedIn‑style professional networking backend for mentors and mentees — featuring smart connection suggestions, real‑time chat, scheduling, goal tracking, and push notifications.
+
+📦 [Source Code](https://github.com/shahjalal-labs/guidely_backend) <br />
+📬 [API Docs](https://documenter.getpostman.com/view/53860662/2sBXirjoP3)
+
+🛠 **Tech Stack:**
+`Node.js` • `TypeScript` • `Express` • `MongoDB` • `Prisma` • `Redis` • `BullMQ` • `Socket.io` • `Firebase` • `AWS S3`
+
+## ![Guidely](./assets/projects/backend/guidely.png)
+
+---
+
+### 🍽️ SupplyBridge — B2B Restaurant Supply Backend 🔔🤝
+
+> A real-time B2B collaboration platform for restaurant owners and food service vendors — featuring geo-based Ping requests, LinkedIn-style connections, live chat, and multi-channel notifications.
+
+📦 [Source Code](https://github.com/shahjalal-labs/supply_bridge_backend) <br />
+📬 [API Docs](https://documenter.getpostman.com/view/53860662/2sBXirk8nZ)
+
+🛠 **Tech Stack:**
+`Node.js` • `TypeScript` • `Express` • `MongoDB` • `Prisma` • `Redis` • `BullMQ` • `WebSocket` • `Firebase` • `AWS S3`
+
+## ![SupplyBridge](./assets/projects/backend/supply_bridge.png)
+
+---
+
 ### 🌟 DeshGuide — Tourism Management System 🇧🇩🗺️
 
 > A full-featured tourism management platform featuring secure booking, story sharing, multi-role authentication, and a modern admin dashboard—empowering the future of travel in Bangladesh.
