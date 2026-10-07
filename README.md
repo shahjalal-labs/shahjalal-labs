@@ -1,28 +1,60 @@
-# <img src="./assets/Banner.jpg" alt="shahjalal-labs" />
+# <img src="./assets/Banner.jpg" alt="Md. Shahjalal - Full Stack Engineer" width="100%" />
 
 ## 👋 Assalamu Alaikum, I'm **Md. Shahjalal**
 
-Backend Engineer focused on building scalable, high-performance systems with Node.js, TypeScript, and PostgreSQL.
+### 🚀 Full Stack Engineer | Distributed Systems & Scalable Backends
 
-I design and own production APIs, optimize databases, implement caching with Redis, and build real-time systems with WebSocket.
+Full Stack Engineer with production experience designing and building robust web and mobile applications using **Node.js**, **TypeScript**, **Next.js**, **React**, **PostgreSQL**, and **MongoDB**. 
 
-Contributed to mobile apps in production (App Store & Play Store).
+Experienced in architecting modular **REST APIs & microservices**, real-time systems via **Socket.IO / WebSockets**, asynchronous job queues with **RabbitMQ & BullMQ**, in-memory caching with **Redis**, containerized deployments with **Docker & AWS**, and complex payment pipelines (**Stripe Connect & SSLCommerz**). Comfortable leveraging **agentic AI** and modern developer tooling to accelerate software delivery and build resilient, production-ready systems.
 
-- System design • Performance • Clean architecture
-- CLI-first workflow (Hyprland(linux), Neovim, Tmux)
+- 📱 **Production Mobile Backends**: Developed and maintained backend services for live, publicly released mobile applications on **Apple App Store & Google Play Store** ([**Allô Taf**](https://play.google.com/store/apps/details?id=com.allotaf.app), [**Bridge System**](https://apps.apple.com/us/app/bridge-system/id6762170336), [**FreemanZ**](https://apps.apple.com/us/app/freemanz/id6755990083)).
+- ⚙️ **Architecture & Reliability**: System design • Event-driven architectures • Clean code • High-concurrency performance.
+- ⌨️ **Keyboard-First Linux Workflow**: Power CLI environment driven by **Linux**, **Hyprland**, **Neovim (Lua)**, **Tmux**, **Kanata**, and **Bash / Zsh**.
 
-## 🎯 Open to Backend or Backend-heavy Full Stack roles.
+## 🎯 Open to Full Stack & Backend Engineering Roles.
+
+---
 
 # 💻 Tech Stack
 
-| Category                         | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Backend Core**                 | ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/-REST_API-000000?style=flat) ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat)                     |
-| **Database & Caching**           | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-0c344b?style=flat) ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat) ![Redis](https://img.shields.io/badge/-Redis-dc382d?style=flat&logo=redis&logoColor=white)                                       |
-| **Auth & Security**              | ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white) ![RBAC](https://img.shields.io/badge/-RBAC-444444?style=flat) ![Secure Auth](https://img.shields.io/badge/-Auth_System-222222?style=flat)                                                                                                                                                                                                                                          |
-| **DevOps & Deployment**          | ![Basic Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux) ![Environment Config](https://img.shields.io/badge/-Env_Config-333333?style=flat)                                                                                                                                                                                                                    |
-| **Frontend (Working Knowledge)** | ![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61dafb) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06b6d4?style=flat&logo=tailwind-css) ![TanStack Query](https://img.shields.io/badge/-TanStack_Query-ff4154?style=flat&logo=react-query&logoColor=white)                                                                                         |
-| **Tools & Workflow**             | ![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-ff6c37?style=flat&logo=postman&logoColor=white) ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white) ![Tmux](https://img.shields.io/badge/-Tmux-1BB91F?style=flat) ![Zsh](https://img.shields.io/badge/-Zsh-cccccc?style=flat) ![Hyprland](https://img.shields.io/badge/-Hyprland-0078D4?style=flat) |
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=white) ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white) ![REST API](https://img.shields.io/badge/-REST_API-000000?style=flat) ![Microservices](https://img.shields.io/badge/-Microservices-0a5c36?style=flat) ![Socket.io](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white) ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat) |
+| **Databases & Caching** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-0c344b?style=flat&logo=prisma&logoColor=white) ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat) ![Redis](https://img.shields.io/badge/-Redis-dc382d?style=flat&logo=redis&logoColor=white) |
+| **Messaging & Queues** | ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![BullMQ](https://img.shields.io/badge/-BullMQ-b8383d?style=flat) ![Event Driven](https://img.shields.io/badge/-Event_Driven-24292e?style=flat) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat) ![Env Config](https://img.shields.io/badge/-Env_Config-333333?style=flat) |
+| **Integrations & Payments** | ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat&logo=stripe&logoColor=white) ![SSLCommerz](https://img.shields.io/badge/-SSLCommerz-005696?style=flat) ![Webhooks](https://img.shields.io/badge/-Webhooks-111111?style=flat) ![Third Party APIs](https://img.shields.io/badge/-Third_Party_APIs-444444?style=flat) |
+| **Frontend & UI** | ![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61dafb) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06b6d4?style=flat&logo=tailwind-css) ![TanStack Query](https://img.shields.io/badge/-TanStack_Query-ff4154?style=flat&logo=react-query&logoColor=white) ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white) |
+| **AI & Automation** | ![Agentic AI](https://img.shields.io/badge/-Agentic_AI-8A2BE2?style=flat) ![AI Assisted Dev](https://img.shields.io/badge/-AI_Assisted_Dev-10A37F?style=flat&logo=openai&logoColor=white) |
+| **Tools & Environment** | ![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-ff6c37?style=flat&logo=postman&logoColor=white) ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white) ![Tmux](https://img.shields.io/badge/-Tmux-1BB91F?style=flat) ![Hyprland](https://img.shields.io/badge/-Hyprland-0078D4?style=flat) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white) ![Zsh](https://img.shields.io/badge/-Zsh-cccccc?style=flat) ![Kanata](https://img.shields.io/badge/-Kanata-555555?style=flat) |
+
+---
+
+# 📱 Production Mobile Applications
+
+Contributed to and maintained production backend services, secure authentication, API workflows, database queries, and business logic for publicly released mobile applications:
+
+### 🚀 [Allô Taf](https://play.google.com/store/apps/details?id=com.allotaf.app) — On-Demand Mobile Platform
+> Production backend engineering, authentication, and core API workflows powering the live mobile application.
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Allô_Taf-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.allotaf.app)
+
+---
+
+### 🌉 [Bridge System](https://apps.apple.com/us/app/bridge-system/id6762170336) — Enterprise Management & Collaboration
+> Robust server architecture, scalable database operations, and live integration services.
+
+[![App Store](https://img.shields.io/badge/App_Store-Bridge_System-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/bridge-system/id6762170336)
+
+---
+
+### ⚡ [FreemanZ](https://apps.apple.com/us/app/freemanz/id6755990083) — Mobile Ecosystem Application
+> Production backend maintenance, API endpoints, business logic, and real-time features.
+
+[![App Store](https://img.shields.io/badge/App_Store-FreemanZ-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/freemanz/id6755990083)
+
+---
 
 # 📊 GitHub Stats
 
@@ -36,19 +68,21 @@ Contributed to mobile apps in production (App Store & Play Store).
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahjalal-labs&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
+
 ## 📞 Contact Me
 
 Feel free to reach out or explore my work:
 
-| 🌐 Portfolio                                       | 📧 Email                    | 📱 Phone       | 💼 LinkedIn                                                     | 🐙 GitHub                                           |
-| -------------------------------------------------- | --------------------------- | -------------- | --------------------------------------------------------------- | --------------------------------------------------- |
-| [Visit Portfolio](https://shahjalal-labs.surge.sh) | muhommodshahjalal@gmail.com | +8801540325659 | [LinkedIn Profile](https://www.linkedin.com/in/shahjalal-labs/) | [shahjalal-labs](https://github.com/shahjalal-labs) |
+| 🌐 Portfolio | 📧 Email | 📱 Phone | 💼 LinkedIn | 🐙 GitHub |
+| :--- | :--- | :--- | :--- | :--- |
+| [Visit Portfolio](https://shahjalal-labs.surge.sh) | [dev.shahjalal@gmail.com](mailto:dev.shahjalal@gmail.com) | [+8801540325659](tel:+8801540325659) | [LinkedIn Profile](https://www.linkedin.com/in/shahjalal-labs/) | [shahjalal-labs](https://github.com/shahjalal-labs) |
 
 ---
 
 ### 🔗 Quick Links
 
-[![Email](https://img.shields.io/badge/Email-muhommodshahjalal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhommodshahjalal@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dev.shahjalal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.shahjalal@gmail.com)
 [![Call](https://img.shields.io/badge/Call-+8801540325659-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801540325659)
 [![WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801540325659)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahjalal-labs/)
@@ -59,9 +93,9 @@ Feel free to reach out or explore my work:
 
 ## 🚀 Projects by [shahjalal-labs](https://github.com/shahjalal-labs) &nbsp; ![GitHub](https://img.shields.io/github/followers/shahjalal-labs?label=Follow&style=social)
 
-Not just apps. These are **real-world platforms**—architected for scale, designed for humans, and built using the **power of MERN** 🚀
+Not just apps. These are **real-world platforms**—architected for scale, designed for humans, and built using modern full-stack & backend engineering practices. 🚀
 
-Every line of code, every animation, and every decision reflects a developer obsessed with quality, experience, and impact. 🚀✨
+Every line of code, every database schema, and every architecture decision reflects a developer obsessed with quality, experience, and impact. 🚀✨
 
 ---
 
@@ -89,7 +123,7 @@ Every line of code, every animation, and every decision reflects a developer obs
 🛠 **Tech Stack:**
 `Node.js` • `TypeScript` • `Express` • `MongoDB` • `Prisma` • `Redis` • `BullMQ` • `Socket.io` • `Firebase` • `AWS S3`
 
-## ![Guidely](./assets/projects/backend/guidely.png)
+![Guidely](./assets/projects/backend/guidely.png)
 
 ---
 
@@ -103,7 +137,7 @@ Every line of code, every animation, and every decision reflects a developer obs
 🛠 **Tech Stack:**
 `Node.js` • `TypeScript` • `Express` • `MongoDB` • `Prisma` • `Redis` • `BullMQ` • `WebSocket` • `Firebase` • `AWS S3`
 
-## ![SupplyBridge](./assets/projects/backend/supply_bridge.png)
+![SupplyBridge](./assets/projects/backend/supply_bridge.png)
 
 ---
 
@@ -188,16 +222,9 @@ Every line of code, every animation, and every decision reflects a developer obs
 
 ---
 
-> 💡 For more projects and hands-on MERN innovations, visit my full [GitHub profile](https://github.com/shahjalal-labs).
+> 💡 For more projects and hands-on innovations, visit my full [GitHub profile](https://github.com/shahjalal-labs).
 
-<!-- ## 🏅 Certifications -->
-<!---->
-<!-- - **Complete Web Development Course with Excellence**   -->
-<!--    Issued by **Programming Hero** | Batch 11 | ID: WEB11-0132   -->
-<!--    [![Certificate Preview](./assets/certificates/complete_web_ph_certificate.png)](https://drive.google.com/file/d/1HS8uU_-fZIlHH-zX_XazxS-QIlzHfjRZ/view) -->
-<!--   [📄 Credential](https://drive.google.com/file/d/1HS8uU_-fZIlHH-zX_XazxS-QIlzHfjRZ/view) <br /> -->
-<!--   [![Certificate](https://img.shields.io/badge/Certificate-Programming_Hero-0A66C2?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1HS8uU_-fZIlHH-zX_XazxS-QIlzHfjRZ/view) -->
-<!---->
+---
 
 # 🏅 Certifications
 
@@ -217,14 +244,16 @@ Every line of code, every animation, and every decision reflects a developer obs
   [📄 Credential](https://drive.google.com/file/d/1HS8uU_-fZIlHH-zX_XazxS-QIlzHfjRZ/view) <br />
   [![Certificate](https://img.shields.io/badge/Certificate-Programming_Hero-0A66C2?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1HS8uU_-fZIlHH-zX_XazxS-QIlzHfjRZ/view)
 
+---
+
 ### 🤝 Let’s Connect!
 
-Open to collaborations, freelance projects, and full-time opportunities.  
-Feel free to reach out — I’d love to hear from you!
+Open to collaborations, high-impact roles, and engineering challenges.  
+Feel free to reach out — I’d love to connect!
 
-| 📧 Email                    | 📱 Phone       | 💼 LinkedIn                                                     | 🐙 GitHub                                           |
-| --------------------------- | -------------- | --------------------------------------------------------------- | --------------------------------------------------- |
-| muhommodshahjalal@gmail.com | +8801540325659 | [LinkedIn Profile](https://www.linkedin.com/in/shahjalal-labs/) | [shahjalal-labs](https://github.com/shahjalal-labs) |
+| 📧 Email | 📱 Phone | 💼 LinkedIn | 🐙 GitHub |
+| :--- | :--- | :--- | :--- |
+| [dev.shahjalal@gmail.com](mailto:dev.shahjalal@gmail.com) | [+8801540325659](tel:+8801540325659) | [LinkedIn Profile](https://www.linkedin.com/in/shahjalal-labs/) | [shahjalal-labs](https://github.com/shahjalal-labs) |
 
 ---
 
@@ -235,6 +264,5 @@ Feel free to reach out — I’d love to hear from you!
 ---
 
 <!--
-Md.Shahjalal – MERN Stack Developer | React, TypeScript, Firebase, Neovim, Hyprland, Tmux | Open-source, CLI productivity, Linux-first
-
+Md.Shahjalal – Full Stack Engineer | TypeScript, Node.js, Next.js, PostgreSQL, Redis, RabbitMQ, Docker, AWS | CLI productivity, Linux-first
 -->
